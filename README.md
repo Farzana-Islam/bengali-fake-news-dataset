@@ -1,4 +1,4 @@
-# bengali-fake-news-dataset
+# bengali-fake-news
 One of the first publicly available fake news datasets for the Bengali language, compiled by scraping local newspapers.
 
 ## Dataset
